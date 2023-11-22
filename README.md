@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Junaied Hossain</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/ItsmeJunaied/ItsmeJunaied/main/Brown Cream Floral Fashion Designer LinkedIn Banner.png"> </div>
+
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmejunaied&label=Profile%20views&color=0e75b6&style=flat" alt="itsmejunaied" /> </p>
