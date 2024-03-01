@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next,js, AWS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-f0233.web.app/](https://portfolio-f0233.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-f0233.web.app/](https://junaied.vercel.app/)
 
 - 💬 Ask me about **React.js , Node.js**
 
