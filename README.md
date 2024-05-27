@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmejunaied&label=Profile%20views&color=0e75b6&style=flat" alt="itsmejunaied" /> </p>
 
-- 🌱 I’m currently learning **Next,js, AWS**
+- 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-f0233.web.app/](https://junaied.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://junaied.vercel.app/](https://junaied.vercel.app/)
 
-- 💬 Ask me about **React.js , Node.js**
+- 💬 Ask me about **React.js , Next.js Node.js**
 
 - 📫 How to reach me **junaied526@gmail.com**
 
